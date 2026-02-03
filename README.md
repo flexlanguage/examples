@@ -1,6 +1,6 @@
 # Flex Examples
 
-This repository contains examples of Flex code, show casing Flex's ability to help you model software interfaces.
+Examples of Flex code, show-casing Flex's ability to help you model software interfaces.
 
 ## Messages
 
